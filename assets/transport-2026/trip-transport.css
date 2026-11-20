@@ -17,4 +17,5 @@
 .trip-offline h2{font-size:1.75rem;line-height:1.25;margin:0 0 16px}
 .trip-map-days{padding-left:22px}.trip-map-days li{margin:10px 0;overflow-wrap:anywhere}
 .trip-backup{border-color:#b6812a}.trip-backup>summary{background:#fff3dc}
+@media(max-width:900px){.travel-layout .trip-transport{scroll-margin-top:144px}}
 @media(max-width:480px){.trip-offline{padding:18px 14px}.trip-transport-body{padding:12px}.trip-actions a{flex:1 1 160px}.trip-transport>summary{padding:14px 12px}}
