@@ -8,8 +8,22 @@
 <meta name="description" content="Путеводитель по Китаю на 28 ноября – 9 декабря 2026 года: Чэнду, Чжанцзяцзе, Фуронг и Пекин. Маршрут, транспорт и офлайн-схемы.">
 <title>Китай · маршрут на 28 ноября — 9 декабря 2026</title>
 <link rel="stylesheet" href="assets/trip-ui/home.css">
+<link rel="stylesheet" href="assets/trip-ui/section-menu.css">
+<script defer src="assets/trip-ui/section-menu.js"></script>
 </head>
 <body class="trip-home">
+<div class="trip-section-bar" hidden><button type="button" class="trip-section-toggle" aria-haspopup="dialog" aria-controls="trip-sections-dialog" aria-expanded="false"><span aria-hidden="true">&#9776;</span><span>Разделы</span></button></div>
+<dialog class="trip-section-dialog" id="trip-sections-dialog" aria-labelledby="trip-sections-title">
+  <div class="trip-section-drawer">
+    <div class="trip-section-drawer-title"><h2 id="trip-sections-title">Разделы страницы</h2><button class="trip-section-close" type="button" aria-label="Закрыть меню" autofocus>&times;</button></div>
+    <nav aria-labelledby="trip-sections-title"><ul class="trip-section-list">
+      <li><a href="#route">Города и маршрут</a></li>
+      <li><a href="#transport">Аэропорты и вокзалы</a></li>
+      <li><a href="#offline-maps">Офлайн-карты</a></li>
+      <li><a href="#budget">Бюджет</a></li>
+    </ul></nav>
+  </div>
+</dialog>
 <a class="home-skip" href="#route">К основному содержанию</a>
 <header class="home-header">
   <div class="trip-shell home-header-inner">
