@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1100" viewBox="0 0 1200 1100" role="img" aria-labelledby="title desc">
+<title id="title">Пекин-Столичный PEK: T2, этаж 2. План внутреннего вылета</title>
+<desc id="desc">Вид сверху. От входа в зал вылетов к островам регистрации, далее к внутреннему досмотру и в зону посадки. Точный остров и выход проверяются на табло. Север на карте слева.</desc>
+<defs>
+ <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3.8" markerHeight="3.8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#a33e15"/></marker>
+ <style>
+ text{font-family:"DejaVu Sans","Noto Sans CJK SC",sans-serif; fill:#182e37}
+ .ink{font-size:22px;font-weight:700}.muted{font-size:19px;fill:#47616b}
+ .small{font-size:17px;fill:#47616b}
+ .pin circle{fill:#96360f;stroke:#fff;stroke-width:3}.pin text{fill:#fff;font-size:24px;font-weight:700;text-anchor:middle}
+ .route{fill:none;stroke:#a33e15;stroke-width:8;stroke-linecap:round;stroke-linejoin:round}
+ </style>
+</defs>
+<rect width="1200" height="1100" fill="#f5f3ee"/>
+<rect x="29" y="29" width="1142" height="1042" rx="24" fill="#fff" stroke="#d1dcd9" stroke-width="2"/>
+<text x="66" y="84" font-size="19" font-weight="700" letter-spacing="2.3" fill="#48676e">PEK / 北京首都国际机场</text>
+<text x="66" y="142" font-size="50" font-weight="700">Пекин-Столичный</text>
+<text x="66" y="184" font-size="28" fill="#48676e">Терминал 2 · этаж 2 · внутренний вылет</text>
+<rect x="66" y="220" width="1068" height="506" rx="15" fill="#f5f8f7" stroke="#dbe4e1"/>
+<text x="88" y="257" class="ink">← С</text>
+<text x="180" y="257" class="muted">Север слева · вид сверху</text>
+<!-- Generalized public passenger geometry from the floor plan; drawn independently. -->
+<path d="M117 331 145 298 202 298 238 331 238 374 216 374 216 512 299 512 327 473 890 473 890 629 366 629 366 584 317 544 253 544 219 579 219 636 238 636 238 669 209 699 145 699 117 669 117 637 137 637 137 374 117 374Z" fill="#e3ede7" stroke="#638079" stroke-width="3" stroke-linejoin="round"/>
+<path d="M680 512H890V473H1003L1041 442V378H1024V331L1053 298H1090L1119 329V378H1101V637H1120V668L1090 698H1051L1023 669V637H1041V574L1002 541H915L890 565V589H680Z" fill="#e4e9ec" stroke="#7e929d" stroke-width="2.8" stroke-linejoin="round"/>
+<path d="M213 515H299L327 473H888V512H366L334 537H212M368 589H680" stroke="#8aa299" stroke-width="3" fill="none" stroke-dasharray="6 6"/>
+<path d="M243 432h42l21 19v30h-63zm0 148h42l21 19v35h-63z" fill="#e3ede7" stroke="#638079" stroke-width="2"/>
+<text x="252" y="375" class="muted">Зона посадки</text>
+<text x="252" y="400" class="small">внутренних рейсов</text>
+<text x="710" y="550" class="small">Международная</text>
+<text x="710" y="573" class="small">часть T2</text>
+<text x="714" y="660" class="small">Подъезд к этажу 2</text>
+<rect x="459" y="536" width="29" height="41" rx="6" fill="#a3b8a3"/><rect x="503" y="536" width="29" height="41" rx="6" fill="#a3b8a3"/><rect x="547" y="536" width="29" height="41" rx="6" fill="#a3b8a3"/><rect x="591" y="536" width="29" height="41" rx="6" fill="#a3b8a3"/>
+<text x="349" y="554" class="small">Острова</text>
+<text x="349" y="577" class="small">регистрации</text>
+<rect x="453" y="508" width="47" height="12" rx="3" fill="#78988a"/><rect x="520" y="508" width="47" height="12" rx="3" fill="#78988a"/><rect x="587" y="508" width="47" height="12" rx="3" fill="#78988a"/>
+<rect x="613" y="623" width="27" height="12" rx="3" fill="#638079"/>
+<text x="651" y="609" class="small">Вход в зал</text>
+<!-- Solid line is general passenger flow through known zones, not a chosen counter. -->
+<path class="route" d="M627 667V605H551V574" marker-end="url(#arrow)"/>
+<path class="route" d="M551 559H573V516" marker-end="url(#arrow)"/>
+<path class="route" d="M573 509V492H317L300 525H188V454" marker-end="url(#arrow)"/>
+<path class="route" d="M188 460V347M188 525V651M574 492H836" stroke-dasharray="4 13" opacity=".74" marker-end="url(#arrow)"/>
+<path d="M594 515H642L668 443H684" fill="none" stroke="#738b88" stroke-width="1.5"/>
+<text x="691" y="446" class="small">Внутренний досмотр</text>
+<g class="pin"><g transform="translate(627 628)"><circle r="21"/><text y="8">1</text></g><g transform="translate(551 566)"><circle r="21"/><text y="8">2</text></g><g transform="translate(573 514)"><circle r="21"/><text y="8">3</text></g><g transform="translate(188 454)"><circle r="21"/><text y="8">4</text></g></g>
+<g font-size="23" font-weight="700">
+<text x="68" y="774">1  Вход 2F / 国内出发</text><text x="602" y="774">2  Регистрация / 值机</text>
+<text x="68" y="866">3  Внутренний досмотр / 安全检查</text><text x="602" y="866">4  Внутренняя посадка / 登机口</text>
+</g>
+<g class="muted">
+<text x="68" y="807">Ищи зал внутренних вылетов.</text><text x="602" y="807">Стойку проверь на табло. Уточни багаж.</text>
+<text x="68" y="899">Не уходи в международный сектор.</text><text x="602" y="899">Номер гейта проверь на посадочном и табло.</text>
+</g>
+<path d="M70 947h60" class="route" marker-end="url(#arrow)"/><text x="152" y="954" class="small">Путь между зонами</text><path d="M592 947h60" class="route" stroke-dasharray="4 13"/><text x="670" y="954" class="small">Направления к гейтам, не выбранный гейт</text>
+<path d="M68 979H1134" stroke="#d4e0dc"/><text x="68" y="1010" class="small">Схема по историческому плану; не в масштабе. Стойку и гейт сверяй по табло.</text>
+<text x="68" y="1037" class="small">Подъезд и другие этажи не показаны. На месте следуй указателям аэропорта.</text>
+</svg>

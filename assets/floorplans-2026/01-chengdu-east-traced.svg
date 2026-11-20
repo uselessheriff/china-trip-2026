@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1580" viewBox="0 0 1000 1580"><title>Чэнду-Восточный: физический план зала и путь к посадке</title><desc>Перерисовано по официальной схеме, https://www.thepaper.cn/newsDetail_forward_29465427. Компас сохранён. Конкретный выход на посадку определяется по табло.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" markerWidth="3" markerHeight="3" refX="9" refY="5" orient="auto"><path d="M0 0 L10 5 0 10z" fill="#027a69"/></marker></defs>
+<rect x="0" y="0" width="1000" height="1580" rx="0" fill="#f8f6ef" stroke="none" stroke-width="2"/>
+<rect x="43" y="40" width="914" height="155" rx="30" fill="#153d35" stroke="none" stroke-width="2"/>
+<text x="75" y="83" fill="#aae5d8" font-size="21" font-weight="700" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">01 ДЕК  ·  ВОКЗАЛ  ·  ВЫЕЗД</text>
+<text x="75" y="130" fill="#fff" font-size="42" font-weight="800" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">Чэнду-Восточный</text>
+<text x="77" y="165" fill="#ddf0e5" font-size="21" font-weight="500" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">成都东站  ·  План зала по схеме оператора</text>
+<text x="58" y="238" fill="#174a40" font-size="25" font-weight="800" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">ВОСТОК / 东  ↑</text>
+<text x="944" y="238" fill="#52615a" font-size="21" font-weight="500" text-anchor="end" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">Вид сверху · не в масштабе</text>
+<rect x="43" y="257" width="914" height="1030" rx="28" fill="#ffffff" stroke="#dfded4" stroke-width="2"/>
+<path d="M260 365 H430 M570 365 H740 V444 H690 V687 M690 744 V1100 H740 V1200 H258 V1100 H310 V744 M310 687 V444 H260 V365" stroke="#28473e" fill="none" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M430 365 H570" stroke="#027a69" fill="none" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M310 744 V687 M690 744 V687" stroke="#756c4d" fill="none" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="310" y="445" width="45" height="240" rx="0" fill="#eef0df" stroke="none" stroke-width="2"/>
+<rect x="645" y="445" width="45" height="240" rx="0" fill="#eef0df" stroke="none" stroke-width="2"/>
+<rect x="310" y="844" width="45" height="256" rx="0" fill="#eef0df" stroke="none" stroke-width="2"/>
+<rect x="645" y="869" width="45" height="231" rx="0" fill="#eef0df" stroke="none" stroke-width="2"/>
+<text x="332" y="575" fill="#5b6753" font-size="16" font-weight="700" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">WC</text>
+<text x="667" y="575" fill="#5b6753" font-size="16" font-weight="700" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">WC</text>
+<text x="332" y="963" fill="#5b6753" font-size="16" font-weight="700" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">WC</text>
+<text x="667" y="963" fill="#5b6753" font-size="16" font-weight="700" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">WC</text>
+<text x="500" y="306" fill="#164d46" font-size="24" font-weight="750" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">Вход №3 · Восточная площадь</text>
+<text x="500" y="335" fill="#164d46" font-size="22" font-weight="650" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">东广场 · 东进站口 · 2F</text>
+<text x="296" y="704" fill="#61553b" font-size="21" font-weight="700" text-anchor="end" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">№4 · 2F</text>
+<text x="296" y="737" fill="#61553b" font-size="18" font-weight="650" text-anchor="end" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">北进站口</text>
+<text x="703" y="704" fill="#61553b" font-size="21" font-weight="700" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">№2 · 2F</text>
+<text x="703" y="737" fill="#61553b" font-size="18" font-weight="650" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">南进站口</text>
+<text x="99" y="785" fill="#708078" font-size="18" font-weight="700" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">СЕВЕР</text>
+<text x="99" y="810" fill="#708078" font-size="18" font-weight="650" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">北 / N</text>
+<text x="901" y="785" fill="#708078" font-size="18" font-weight="700" text-anchor="end" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">ЮГ</text>
+<text x="901" y="810" fill="#708078" font-size="18" font-weight="650" text-anchor="end" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">南 / S</text>
+<rect x="365" y="414" width="81" height="31" rx="8" fill="#e6eee9" stroke="none" stroke-width="2"/>
+<text x="405" y="436" fill="#29453d" font-size="17" font-weight="700" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">A26</text>
+<rect x="554" y="414" width="81" height="31" rx="8" fill="#f2eee4" stroke="none" stroke-width="2"/>
+<text x="594" y="436" fill="#5b4d30" font-size="17" font-weight="700" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">B26</text>
+<rect x="365" y="466" width="81" height="31" rx="8" fill="#e6eee9" stroke="none" stroke-width="2"/>
+<text x="405" y="488" fill="#29453d" font-size="17" font-weight="700" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">A24–25</text>
+<rect x="554" y="466" width="81" height="31" rx="8" fill="#f2eee4" stroke="none" stroke-width="2"/>
+<text x="594" y="488" fill="#5b4d30" font-size="17" font-weight="700" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">B24–25</text>
+<rect x="365" y="518" width="81" height="31" rx="8" fill="#e6eee9" stroke="none" stroke-width="2"/>
+<text x="405" y="540" fill="#29453d" font-size="17" font-weight="700" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">A22–23</text>
+<rect x="554" y="518" width="81" height="31" rx="8" fill="#f2eee4" stroke="none" stroke-width="2"/>
+<text x="594" y="540" fill="#5b4d30" font-size="17" font-weight="700" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">B22–23</text>
+<rect x="365" y="570" width="81" height="31" rx="8" fill="#e6eee9" stroke="none" stroke-width="2"/>
+<text x="405" y="592" fill="#29453d" font-size="17" font-weight="700" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">A20–21</text>
+<rect x="554" y="570" width="81" height="31" rx="8" fill="#f2eee4" stroke="none" stroke-width="2"/>
+<text x="594" y="592" fill="#5b4d30" font-size="17" font-weight="700" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">B20–21</text>
+<rect x="365" y="622" width="81" height="31" rx="8" fill="#e6eee9" stroke="none" stroke-width="2"/>
+<text x="405" y="644" fill="#29453d" font-size="17" font-weight="700" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">A18–19</text>
+<rect x="554" y="622" width="81" height="31" rx="8" fill="#f2eee4" stroke="none" stroke-width="2"/>
+<text x="594" y="644" fill="#5b4d30" font-size="17" font-weight="700" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">B18–19</text>
+<rect x="365" y="674" width="81" height="31" rx="8" fill="#e6eee9" stroke="none" stroke-width="2"/>
+<text x="405" y="696" fill="#29453d" font-size="17" font-weight="700" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">A16–17</text>
+<rect x="554" y="674" width="81" height="31" rx="8" fill="#f2eee4" stroke="none" stroke-width="2"/>
+<text x="594" y="696" fill="#5b4d30" font-size="17" font-weight="700" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">B16–17</text>
+<rect x="365" y="726" width="81" height="31" rx="8" fill="#e6eee9" stroke="none" stroke-width="2"/>
+<text x="405" y="748" fill="#29453d" font-size="17" font-weight="700" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">A14–15</text>
+<rect x="554" y="726" width="81" height="31" rx="8" fill="#f2eee4" stroke="none" stroke-width="2"/>
+<text x="594" y="748" fill="#5b4d30" font-size="17" font-weight="700" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">B14–15</text>
+<rect x="365" y="778" width="81" height="31" rx="8" fill="#e6eee9" stroke="none" stroke-width="2"/>
+<text x="405" y="800" fill="#29453d" font-size="17" font-weight="700" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">A12–13</text>
+<rect x="554" y="778" width="81" height="31" rx="8" fill="#f2eee4" stroke="none" stroke-width="2"/>
+<text x="594" y="800" fill="#5b4d30" font-size="17" font-weight="700" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">B12–13</text>
+<rect x="365" y="830" width="81" height="31" rx="8" fill="#e6eee9" stroke="none" stroke-width="2"/>
+<text x="405" y="852" fill="#29453d" font-size="17" font-weight="700" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">A10–11</text>
+<rect x="554" y="830" width="81" height="31" rx="8" fill="#f2eee4" stroke="none" stroke-width="2"/>
+<text x="594" y="852" fill="#5b4d30" font-size="17" font-weight="700" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">B10–11</text>
+<rect x="365" y="882" width="81" height="31" rx="8" fill="#e6eee9" stroke="none" stroke-width="2"/>
+<text x="405" y="904" fill="#29453d" font-size="17" font-weight="700" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">A8–9</text>
+<rect x="554" y="882" width="81" height="31" rx="8" fill="#f2eee4" stroke="none" stroke-width="2"/>
+<text x="594" y="904" fill="#5b4d30" font-size="17" font-weight="700" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">B8–9</text>
+<rect x="365" y="934" width="81" height="31" rx="8" fill="#e6eee9" stroke="none" stroke-width="2"/>
+<text x="405" y="956" fill="#29453d" font-size="17" font-weight="700" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">A6–7</text>
+<rect x="554" y="934" width="81" height="31" rx="8" fill="#f2eee4" stroke="none" stroke-width="2"/>
+<text x="594" y="956" fill="#5b4d30" font-size="17" font-weight="700" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">B6–7</text>
+<rect x="365" y="986" width="81" height="31" rx="8" fill="#e6eee9" stroke="none" stroke-width="2"/>
+<text x="405" y="1008" fill="#29453d" font-size="17" font-weight="700" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">A4–5</text>
+<rect x="554" y="986" width="81" height="31" rx="8" fill="#f2eee4" stroke="none" stroke-width="2"/>
+<text x="594" y="1008" fill="#5b4d30" font-size="17" font-weight="700" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">B4–5</text>
+<rect x="365" y="1038" width="81" height="31" rx="8" fill="#e6eee9" stroke="none" stroke-width="2"/>
+<text x="405" y="1060" fill="#29453d" font-size="17" font-weight="700" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">A2–3</text>
+<rect x="554" y="1038" width="81" height="31" rx="8" fill="#f2eee4" stroke="none" stroke-width="2"/>
+<text x="594" y="1060" fill="#5b4d30" font-size="17" font-weight="700" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">B2–3</text>
+<text x="659" y="435" fill="#846728" font-size="16" font-weight="600" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">пересадка</text>
+<path d="M500 354 V670" stroke="#027a69" fill="none" stroke-width="8" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arr)"/>
+<path d="M500 725 V775 H455" stroke="#027a69" fill="none" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="8 8" marker-end="url(#arr)"/>
+<path d="M500 775 H545" stroke="#027a69" fill="none" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="8 8" marker-end="url(#arr)"/>
+<circle cx="500" cy="388" r="23" fill="#027a69" stroke="#fff" stroke-width="4"/>
+<text x="500" y="397" fill="#fff" font-size="24" font-weight="800" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">1</text>
+<circle cx="500" cy="701" r="23" fill="#027a69" stroke="#fff" stroke-width="4"/>
+<text x="500" y="710" fill="#fff" font-size="24" font-weight="800" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">2</text>
+<circle cx="500" cy="775" r="23" fill="#027a69" stroke="#fff" stroke-width="4"/>
+<text x="500" y="784" fill="#fff" font-size="24" font-weight="800" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">3</text>
+<path d="M260 1102 H740" stroke="#8c7f5c" fill="none" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 10"/>
+<path d="M500 1190 V1121" stroke="#8c7f5c" fill="none" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="6 7"/>
+<text x="500" y="1140" fill="#6c5731" font-size="22" font-weight="750" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">Западный вход №1 · 1F</text>
+<text x="500" y="1169" fill="#6c5731" font-size="19" font-weight="700" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">西广场 · 西进站口 · A1 на 1F</text>
+<text x="500" y="1248" fill="#4a6055" font-size="20" font-weight="650" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">ЗАПАД / 西  ↓     ·     в зал 2F — по эскалатору</text>
+<circle cx="72" cy="1333" r="23" fill="#027a69" stroke="#fff" stroke-width="4"/>
+<text x="72" y="1342" fill="#fff" font-size="24" font-weight="800" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">1</text>
+<text x="113" y="1331" fill="#173e35" font-size="25" font-weight="800" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">Вход №3 с Восточной площади</text>
+<text x="114" y="1359" fill="#41584d" font-size="18" font-weight="550" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">Оригинал паспорта: 人工通道 · затем досмотр 安检</text>
+<circle cx="72" cy="1402" r="23" fill="#027a69" stroke="#fff" stroke-width="4"/>
+<text x="72" y="1411" fill="#fff" font-size="24" font-weight="800" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">2</text>
+<text x="113" y="1400" fill="#173e35" font-size="25" font-weight="800" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">В зале 2F проверь табло</text>
+<text x="114" y="1428" fill="#41584d" font-size="18" font-weight="550" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">G2321, 10:20 по плану. Номер 检票口 смотри на месте</text>
+<circle cx="72" cy="1471" r="23" fill="#027a69" stroke="#fff" stroke-width="4"/>
+<text x="72" y="1480" fill="#fff" font-size="24" font-weight="800" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">3</text>
+<text x="113" y="1469" fill="#173e35" font-size="25" font-weight="800" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">Сверни к своей стороне</text>
+<text x="114" y="1497" fill="#41584d" font-size="18" font-weight="550" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">A слева (север), B справа (юг). A1 — на 1F.</text>
+<text x="52" y="1562" fill="#52615a" font-size="16" font-weight="500" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">Схема: China Railway / The Paper · 2024 • номера ворот на рисунке — не назначение поезда.</text>
+</svg>

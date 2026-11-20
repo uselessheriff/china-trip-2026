@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1120" viewBox="0 0 1500 1120" role="img" aria-labelledby="title desc">
+<title id="title">Пулково LED. Международный прилёт: план первого этажа</title><desc id="desc">Вид сверху центрального зала. Выдача багажа международных рейсов справа, таможня перед выходом в общий зал, выход к городу с первого этажа.</desc>
+<defs><marker id="arr" viewBox="0 0 20 20" refX="16" refY="10" markerUnits="userSpaceOnUse" markerWidth="25" markerHeight="25" orient="auto"><path d="M1 1L19 10L1 19Z" fill="#d94e06"/></marker></defs>
+<style>
+text{font-family:Arial,sans-serif;fill:#14243a}.h{font-size:58px;font-weight:800}.s{font-size:28px;font-weight:700}.m{font-size:24px;fill:#486075}.l{font-size:27px;font-weight:800}.cn{font-size:22px;fill:#405871}.no{font-size:25px;font-weight:800;fill:white;text-anchor:middle;dominant-baseline:middle}.circle{fill:#d94e06;stroke:white;stroke-width:4}.rt{fill:none;stroke:#d94e06;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#arr)}.dashed{stroke-dasharray:11 10}.hall{fill:#dce7ef;stroke:#6d8395;stroke-width:3}.zone{fill:#f8fafb;stroke:#8ea1b1;stroke-width:2}.b{fill:#b7d6e5;stroke:#7296a8;stroke-width:2}
+</style>
+<path fill="#f5f8fb" d="M0 0H1500V1120H0z"/>
+<text x="57" y="87" class="h">Пулково • LED</text>
+<text x="58" y="140" class="s">Международный прилёт • 1-й этаж • 9 декабря • 3U3815</text>
+<text x="58" y="185" class="m">Вид сверху центрального зала по опубликованной схеме • не в масштабе</text>
+<rect x="44" y="227" width="1412" height="630" rx="26" fill="white" stroke="#d6e0e8" stroke-width="2"/>
+<g transform="translate(155 311)">
+<!-- Fact geometry from attendee plan: reclaim split, enclosures and parallel façade. Exact internal stair sequence omitted. -->
+<path class="hall" d="M25 7H1120L1138 470H0Z"/>
+<path class="zone" d="M132 37H516V323H354V283H263V224H38V185H126Z"/>
+<path class="zone" d="M516 37H1004V179H1102V223H920V281H770V323H516Z"/>
+<path d="M517 36V325" stroke="#6e8394" stroke-width="6"/>
+<path d="M31 325H133V273H216V325H1035V276H1110V338H31Z" fill="#c2d1dc" stroke="#849eaf" stroke-width="2"/>
+<path d="M34 356H1111V462H34Z" fill="#edf4f2" stroke="#91aca2" stroke-width="2"/>
+<g class="b">
+<rect x="154" y="52" width="45" height="95" rx="23"/><rect x="280" y="52" width="45" height="95" rx="23"/><rect x="407" y="52" width="45" height="95" rx="23"/>
+<rect x="554" y="52" width="45" height="95" rx="23"/><rect x="681" y="52" width="45" height="95" rx="23"/><rect x="809" y="52" width="45" height="95" rx="23"/><rect x="936" y="52" width="45" height="95" rx="23"/>
+</g>
+<path d="M1021 150L953 203M1040 157L972 212M1059 164L991 219" stroke="#8da5b7" stroke-width="8" fill="none"/>
+<path d="M139 156L211 211M120 164L192 219M103 172L175 226" stroke="#8da5b7" stroke-width="8" fill="none"/>
+<path d="M465 470H539M632 470H707" stroke="white" stroke-width="7"/>
+<path d="M25 512H1125" stroke="#c4d1d9" stroke-width="3" stroke-dasharray="14 10"/>
+<path class="rt dashed" d="M1064 149Q1045 208 969 219H882"/>
+<path class="rt" d="M859 238H720V272"/>
+<path class="rt" d="M720 305V350H834V400"/>
+<path class="rt" d="M833 412H671V480"/>
+<circle cx="1038" cy="187" r="22" class="circle"/><text x="1038" y="187" class="no">1</text>
+<circle cx="859" cy="238" r="22" class="circle"/><text x="859" y="238" class="no">2</text>
+<circle cx="720" cy="303" r="22" class="circle"/><text x="720" y="303" class="no">3</text>
+<circle cx="833" cy="402" r="22" class="circle"/><text x="833" y="402" class="no">4</text>
+</g>
+<text x="67" y="286" class="l">Из самолёта: сначала паспортный контроль, затем вниз по указателям «Прибытие».</text>
+<text x="756" y="500" class="l">Выдача багажа</text>
+<text x="524" y="613" class="l">Таможенный контроль</text>
+<text x="440" y="717" class="l">Общий зал прилёта</text>
+<text x="863" y="801" class="l">Выход к городу</text>
+<text x="60" y="904" class="s">Автобусы с 1-го этажа: 39 / 39Э → «Московская» • 82Э → «Проспект Ветеранов».</text>
+<text x="60" y="947" class="m">Лента багажа, точный проход с контроля и номер двери — по табло и указателям.</text>
+<a href="https://cdn.forumspb.com/upload/docs/2025/maps/SPIEF25_Pulkovo_Airport.pdf"><text x="60" y="1005" class="m">План: ПМЭФ / Roscongress; примерная стрелка от паспортного контроля.</text></a>
+<a href="https://pulkovoairport.ru/passengers/map/"><text x="60" y="1044" class="m">Актуальные указатели: интерактивный план Пулково; автобус: pulkovoairport.ru/transport/</text></a>
+</svg>

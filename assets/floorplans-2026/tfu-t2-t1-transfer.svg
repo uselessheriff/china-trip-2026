@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1510" viewBox="0 0 1500 1510" role="img" aria-labelledby="title desc">
+<title id="title">Тяньфу TFU: пересадка T2–T1</title><desc id="desc">Два вида сверху по опубликованным схемам. Багажный зал T2 L2, выходы B1/B2, общий транспортный центр, зал регистрации T1 L4 с островами B, C, D и международным контролем.</desc>
+<defs><marker id="arr" viewBox="0 0 20 20" refX="16" refY="10" markerUnits="userSpaceOnUse" markerWidth="24" markerHeight="24" orient="auto"><path d="M1 1L19 10L1 19Z" fill="#d94e06"/></marker></defs>
+<style>
+text{font-family:Arial,'Noto Sans CJK SC',sans-serif;fill:#14243a}.h{font-size:60px;font-weight:800}.s{font-size:28px;font-weight:700}.m{font-size:23px;fill:#486075}.l{font-size:27px;font-weight:800}.cn{font-size:21px;fill:#405871}.no{font-size:25px;font-weight:800;fill:white;text-anchor:middle;dominant-baseline:middle}.circle{fill:#d94e06;stroke:white;stroke-width:4}.rt{fill:none;stroke:#d94e06;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#arr)}.dashed{stroke-dasharray:11 10}.hall{fill:#dde7ef;stroke:#6d8395;stroke-width:3}.zone{fill:#f8fafb;stroke:#a8b8c5;stroke-width:2}.b{fill:#b7d6e5;stroke:#7296a8;stroke-width:2}.blk{fill:#fcf3dd;stroke:#b49756;stroke-width:2}.lbl{font-size:25px;font-weight:800}.mon{font-size:25px;font-weight:700;fill:#24374c;text-anchor:middle}
+</style>
+<path fill="#f5f8fb" d="M0 0H1500V1510H0z"/>
+<text x="55" y="83" class="h">Чэнду Тяньфу • TFU</text>
+<text x="59" y="137" class="s">Внутренний → международный • 9 декабря • 3U6880 → 3U3815</text>
+<text x="59" y="182" class="m">Вид сверху, два этажа • путь с получением багажа • не в масштабе</text>
+<rect x="42" y="216" width="1416" height="448" rx="25" fill="white" stroke="#d6e0e8" stroke-width="2"/>
+<text x="70" y="264" class="s">T2 · L2</text><text x="70" y="300" class="cn">国内到达 / Domestic Arrivals</text>
+<!-- T2 arrivals from actual guide, central concourse crop with bend, claim and both public exits -->
+<g transform="translate(430 267)">
+<path class="hall" d="M0 202Q104 171 184 80L237 8H474L533 80Q623 170 737 202L705 233L667 295H75L30 235Z"/>
+<path d="M29 204Q135 180 232 42M508 42Q611 185 704 204" stroke="#92a9ba" stroke-width="11" fill="none"/>
+<path class="zone" d="M154 193H589V264H486V282H263V264H154Z"/>
+<path d="M95 277H640L629 297H109Z" fill="#edf4f2" stroke="#8daaa3" stroke-width="2"/>
+<rect x="225" y="206" width="22" height="48" rx="10" class="b"/><rect x="266" y="205" width="19" height="50" rx="9" class="b"/><rect x="304" y="205" width="19" height="50" rx="9" class="b"/><rect x="339" y="205" width="25" height="51" rx="12" class="b"/><rect x="381" y="205" width="22" height="51" rx="10" class="b"/><rect x="422" y="205" width="21" height="51" rx="9" class="b"/><rect x="461" y="205" width="20" height="51" rx="9" class="b"/><rect x="500" y="205" width="22" height="51" rx="10" class="b"/>
+<path class="rt dashed" d="M119 152Q158 170 179 215H220"/><path class="rt dashed" d="M630 156Q593 175 573 215H525"/>
+<path class="rt" d="M288 223H330V267"/><path class="rt" d="M448 223H410V267"/>
+<path class="rt" d="M327 285H369V326"/><path class="rt" d="M412 285H381V326"/>
+<circle cx="179" cy="205" r="19" class="circle"/><text x="179" y="205" class="no">1</text>
+<circle cx="329" cy="270" r="19" class="circle"/><text x="329" y="270" class="no">2</text>
+<text x="296" y="323" class="mon">B2</text><text x="453" y="323" class="mon">B1</text>
+<circle cx="375" cy="343" r="19" class="circle"/><text x="375" y="343" class="no">3</text>
+</g>
+<text x="69" y="445" class="l">Забрать багаж</text><text x="69" y="475" class="cn">行李提取 / Baggage Claim</text>
+<text x="1060" y="596" class="l">B1 или B2</text><text x="1060" y="626" class="cn">到达出口 / Exit</text>
+<text x="491" y="633" class="l">GTC / 交通中心</text>
+<!-- Concourse transitions deliberately unconfirmed door/lift, dashed -->
+<path class="rt dashed" d="M805 650V696H765V732"/>
+<text x="846" y="692" class="m">По указателям «T1» и «国际、港澳台出发»</text>
+<rect x="42" y="735" width="1416" height="444" rx="25" fill="white" stroke="#d6e0e8" stroke-width="2"/>
+<text x="69" y="778" class="s">T1 · L4</text><text x="232" y="778" class="cn">国际、港澳台出发 / International Departures</text>
+<g transform="translate(147 852)">
+<path class="hall" d="M0 69L87 9H1096L1192 73L1192 137L1091 183L990 218L822 218V269H369V221H195L90 171L0 136Z"/>
+<path class="zone" d="M40 87L98 21H1084L1160 86V144H815V165H381V144H40Z"/>
+<g class="blk">
+<rect x="94" y="12" width="27" height="37" rx="2"/><rect x="279" y="12" width="27" height="37" rx="2"/><rect x="460" y="12" width="27" height="37" rx="2"/><rect x="648" y="12" width="27" height="37" rx="2"/><rect x="828" y="12" width="27" height="37" rx="2"/><rect x="1010" y="12" width="27" height="37" rx="2"/>
+<rect x="219" y="103" width="232" height="32" rx="4"/><rect x="502" y="103" width="232" height="32" rx="4"/><rect x="786" y="103" width="232" height="32" rx="4"/>
+</g>
+<text x="106" y="2" class="mon">11</text><text x="293" y="2" class="mon">12</text><text x="474" y="2" class="mon">13</text><text x="662" y="2" class="mon">14</text><text x="841" y="2" class="mon">15</text><text x="1024" y="2" class="mon">16</text>
+<text x="330" y="126" class="mon">B</text><text x="620" y="126" class="mon">C</text><text x="902" y="126" class="mon">D</text>
+<path d="M434 182H753V235H435Z" fill="#f4f6fa" stroke="#95aaba" stroke-width="2"/>
+<path d="M460 189V225M486 189V225M512 189V225M539 189V225M566 189V225M592 189V225M620 189V225M648 189V225M676 189V225M702 189V225M730 189V225" stroke="#b09257" stroke-width="8"/>
+<path class="rt dashed" d="M594 53H409V93"/>
+<path class="rt" d="M453 116H478V156H594V180"/>
+<path class="rt" d="M594 207V269"/>
+<circle cx="409" cy="72" r="19" class="circle"/><text x="409" y="72" class="no">4</text>
+<circle cx="593" cy="163" r="19" class="circle"/><text x="593" y="163" class="no">5</text>
+<circle cx="594" cy="259" r="19" class="circle"/><text x="594" y="259" class="no">6</text>
+</g>
+<text x="103" y="1052" class="l">Стойка рейса по табло</text><text x="103" y="1080" class="cn">值机 / Check-in</text>
+<text x="957" y="1052" class="l">Международный контроль</text><text x="957" y="1080" class="cn">安检 • 海关 • 边防检查</text>
+<text x="832" y="1151" class="l">Гейт по посадочному талону / 登机口</text>
+<text x="57" y="1232" class="s">Если подтвердят багаж до LED:</text>
+<text x="57" y="1273" class="m">Вместо пути выше следуйте «中转 / Transfer» и указаниям сотрудников. Не уходите в общий зал.</text>
+<text x="57" y="1313" class="m">Номер стойки и гейта сверяйте на табло. Промежуточный пешеходный переход показан условно.</text>
+<a href="https://events-fortinet.com/partner-sync-2025-nasia/Shuttle%20Pick%20Up%20Spot.pdf#page=4"><text x="57" y="1371" class="m">План T2–L2: двуязычная схема прилёта, с. 4</text></a>
+<a href="https://www.cdairport.com/Uploadfiles/Picture/2025-9-3/202593161681193.png"><text x="57" y="1411" class="m">План T1–L4: Sichuan Airport Group; маршрут: 成都发布, описание пересадки</text></a>
+<a href="https://m.thepaper.cn/newsDetail_forward_28807100"><text x="57" y="1453" class="m">Режим с получением багажа: аэропорт Тяньфу, правила пересадки</text></a>
+</svg>

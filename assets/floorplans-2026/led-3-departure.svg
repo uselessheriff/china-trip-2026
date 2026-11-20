@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1120" viewBox="0 0 1500 1120" role="img" aria-labelledby="title desc">
+<title id="title">Пулково LED. Международный вылет: план третьего этажа</title><desc id="desc">Вид сверху: вход с уровня вылета, общий зал регистрации, зона международного контроля и правое крыло международных выходов.</desc>
+<defs><marker id="arr" viewBox="0 0 20 20" refX="16" refY="10" markerUnits="userSpaceOnUse" markerWidth="25" markerHeight="25" orient="auto"><path d="M1 1L19 10L1 19Z" fill="#d94e06"/></marker></defs>
+<style>
+text{font-family:Arial,sans-serif;fill:#14243a}.h{font-size:58px;font-weight:800}.s{font-size:28px;font-weight:700}.m{font-size:24px;fill:#486075}.l{font-size:27px;font-weight:800}.cn{font-size:22px;fill:#405871}.no{font-size:25px;font-weight:800;fill:white;text-anchor:middle;dominant-baseline:middle}.circle{fill:#d94e06;stroke:white;stroke-width:4}.rt{fill:none;stroke:#d94e06;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#arr)}.dashed{stroke-dasharray:11 10}.hall{fill:#dce7ef;stroke:#6d8395;stroke-width:3}.zone{fill:#f8fafb;stroke:#8ea1b1;stroke-width:2}.b{fill:#b7d6e5;stroke:#7296a8;stroke-width:2}
+</style>
+<path fill="#f5f8fb" d="M0 0H1500V1120H0z"/>
+<text x="57" y="87" class="h">Пулково • LED</text>
+<text x="58" y="140" class="s">Международный вылет • 3-й этаж • 28 ноября • 3U3816</text>
+<text x="58" y="185" class="m">Вид сверху центрального терминала • не в масштабе</text>
+<rect x="44" y="227" width="1412" height="666" rx="26" fill="white" stroke="#d6e0e8" stroke-width="2"/>
+<path class="hall" d="M142 301H335V277H1168V302H1349V442H1028V466H903V818H600V466H471V442H142Z"/>
+<path fill="#f1f4f7" d="M143 303H334V279H594V464H472V440H143Z"/>
+<path fill="#eef7fb" stroke="#8ea1b1" stroke-width="2" d="M905 286H1161V311H1340V434H1028V457H905Z"/>
+<rect x="612" y="395" width="280" height="105" rx="12" fill="#dcecf0" stroke="#829aa9" stroke-width="2"/>
+<rect x="612" y="521" width="280" height="269" rx="12" class="zone"/>
+<path d="M640 630H700 M641 658H701 M641 686H701 M799 630H859 M799 658H859 M799 686H859" stroke="#9aaebd" stroke-width="12" stroke-linecap="round"/>
+<text x="218" y="377" class="cn">Не по маршруту</text>
+<text x="1141" y="343" class="l" text-anchor="middle">Международное крыло</text>
+<text x="1141" y="375" class="cn" text-anchor="middle">Выходы • Gates 50–57, 64–66</text>
+<path class="rt" d="M753 801V730V619"/>
+<path class="rt" d="M753 574V489"/>
+<path class="rt" d="M753 439V393L806 393H1079"/>
+<g><circle cx="753" cy="817" r="19" class="circle"/><text x="753" y="817" class="no">1</text></g>
+<g><circle cx="753" cy="600" r="19" class="circle"/><text x="753" y="600" class="no">2</text></g>
+<g><circle cx="753" cy="465" r="19" class="circle"/><text x="753" y="465" class="no">3</text></g>
+<g><circle cx="1107" cy="394" r="19" class="circle"/><text x="1107" y="394" class="no">4</text></g>
+<path d="M617 570H365M617 470H373" fill="none" stroke="#8da0b3" stroke-width="2"/>
+<text x="118" y="469" class="l">Международный</text><text x="118" y="497" class="l">контроль и досмотр</text>
+<text x="118" y="565" class="l">Зал регистрации</text><text x="118" y="597" class="cn">Стойку 3U3816 смотрите на табло</text>
+<text x="753" y="863" class="l" text-anchor="middle">Общий вход • Уровень вылета</text>
+<text x="58" y="952" class="m">Оранжевая линия показывает направление внутри терминала, не конкретный коридор.</text>
+<text x="58" y="995" class="m">Номер выхода сверяйте по табло и посадочному. Места стоек контроля не указаны.</text>
+<text x="58" y="1044" class="m">Основа: план 3-го этажа, «Россия», октябрь 2026; зона регистрации, аэропорт Пулково.</text>
+</svg>

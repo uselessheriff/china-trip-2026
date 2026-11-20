@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1580" viewBox="0 0 1000 1580"><title>Чанша-Южный: зал пересадки 2F</title><desc>Перерисовано по официальной схеме, https://m.thepaper.cn/newsdetail_forward_16038436. Выход из подземного перехода/с платформы не обозначен, местоположение зависит от прибытия.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" markerWidth="3" markerHeight="3" refX="9" refY="5" orient="auto"><path d="M0 0 L10 5 0 10z" fill="#027a69"/></marker></defs>
+<rect x="0" y="0" width="1000" height="1580" rx="0" fill="#f8f6ef" stroke="none" stroke-width="2"/>
+<rect x="43" y="40" width="914" height="155" rx="30" fill="#153d35" stroke="none" stroke-width="2"/>
+<text x="75" y="83" fill="#aae5d8" font-size="20" font-weight="700" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">05 ДЕК  ·  ТОЛЬКО ЗАПАСНОЙ МАРШРУТ</text>
+<text x="75" y="130" fill="#fff" font-size="42" font-weight="800" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">Чанша-Южный</text>
+<text x="77" y="165" fill="#ddf0e5" font-size="21" font-weight="500" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">长沙南站  ·  План зала пересадки 2F</text>
+<rect x="45" y="238" width="910" height="766" rx="28" fill="#fff" stroke="#dfded4" stroke-width="2"/>
+<text x="75" y="291" fill="#174a40" font-size="22" font-weight="800" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">ЗАПАД / 西</text>
+<text x="920" y="291" fill="#174a40" font-size="22" font-weight="800" text-anchor="end" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">ВОСТОК / 东</text>
+<path d="M149 371 H850 V499 H908 V774 H850 V895 H151 V775 H94 V501 H151 Z" stroke="#426b5d" fill="#f7faf4" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="168" y="401" width="49" height="65" rx="8" fill="#f2eee4" stroke="none" stroke-width="2"/>
+<text x="192" y="427" fill="#5b4d30" font-size="15" font-weight="800" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">B2</text>
+<text x="192" y="452" fill="#5b4d30" font-size="15" font-weight="650" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">B3</text>
+<rect x="168" y="801" width="49" height="65" rx="8" fill="#e6eee9" stroke="none" stroke-width="2"/>
+<text x="192" y="827" fill="#29453d" font-size="15" font-weight="800" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">A2</text>
+<text x="192" y="852" fill="#29453d" font-size="15" font-weight="650" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">A3</text>
+<rect x="224" y="401" width="49" height="65" rx="8" fill="#f2eee4" stroke="none" stroke-width="2"/>
+<text x="248" y="427" fill="#5b4d30" font-size="15" font-weight="800" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">B4</text>
+<text x="248" y="452" fill="#5b4d30" font-size="15" font-weight="650" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">B5</text>
+<rect x="224" y="801" width="49" height="65" rx="8" fill="#e6eee9" stroke="none" stroke-width="2"/>
+<text x="248" y="827" fill="#29453d" font-size="15" font-weight="800" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">A4</text>
+<text x="248" y="852" fill="#29453d" font-size="15" font-weight="650" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">A5</text>
+<rect x="280" y="401" width="49" height="65" rx="8" fill="#f2eee4" stroke="none" stroke-width="2"/>
+<text x="304" y="427" fill="#5b4d30" font-size="15" font-weight="800" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">B6</text>
+<text x="304" y="452" fill="#5b4d30" font-size="15" font-weight="650" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">B7</text>
+<rect x="280" y="801" width="49" height="65" rx="8" fill="#e6eee9" stroke="none" stroke-width="2"/>
+<text x="304" y="827" fill="#29453d" font-size="15" font-weight="800" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">A6</text>
+<text x="304" y="852" fill="#29453d" font-size="15" font-weight="650" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">A7</text>
+<rect x="336" y="401" width="49" height="65" rx="8" fill="#f2eee4" stroke="none" stroke-width="2"/>
+<text x="360" y="427" fill="#5b4d30" font-size="15" font-weight="800" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">B8</text>
+<text x="360" y="452" fill="#5b4d30" font-size="15" font-weight="650" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">B9</text>
+<rect x="336" y="801" width="49" height="65" rx="8" fill="#e6eee9" stroke="none" stroke-width="2"/>
+<text x="360" y="827" fill="#29453d" font-size="15" font-weight="800" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">A8</text>
+<text x="360" y="852" fill="#29453d" font-size="15" font-weight="650" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">A9</text>
+<rect x="392" y="401" width="49" height="65" rx="8" fill="#f2eee4" stroke="none" stroke-width="2"/>
+<text x="416" y="427" fill="#5b4d30" font-size="15" font-weight="800" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">B10</text>
+<text x="416" y="452" fill="#5b4d30" font-size="15" font-weight="650" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">B11</text>
+<rect x="392" y="801" width="49" height="65" rx="8" fill="#e6eee9" stroke="none" stroke-width="2"/>
+<text x="416" y="827" fill="#29453d" font-size="15" font-weight="800" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">A10</text>
+<text x="416" y="852" fill="#29453d" font-size="15" font-weight="650" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">A11</text>
+<rect x="448" y="401" width="49" height="65" rx="8" fill="#f2eee4" stroke="none" stroke-width="2"/>
+<text x="472" y="427" fill="#5b4d30" font-size="15" font-weight="800" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">B12</text>
+<text x="472" y="452" fill="#5b4d30" font-size="15" font-weight="650" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">B13</text>
+<rect x="448" y="801" width="49" height="65" rx="8" fill="#e6eee9" stroke="none" stroke-width="2"/>
+<text x="472" y="827" fill="#29453d" font-size="15" font-weight="800" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">A12</text>
+<text x="472" y="852" fill="#29453d" font-size="15" font-weight="650" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">A13</text>
+<rect x="504" y="401" width="49" height="65" rx="8" fill="#f2eee4" stroke="none" stroke-width="2"/>
+<text x="528" y="427" fill="#5b4d30" font-size="15" font-weight="800" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">B14</text>
+<text x="528" y="452" fill="#5b4d30" font-size="15" font-weight="650" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">B15</text>
+<rect x="504" y="801" width="49" height="65" rx="8" fill="#e6eee9" stroke="none" stroke-width="2"/>
+<text x="528" y="827" fill="#29453d" font-size="15" font-weight="800" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">A14</text>
+<text x="528" y="852" fill="#29453d" font-size="15" font-weight="650" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">A15</text>
+<rect x="560" y="401" width="49" height="65" rx="8" fill="#f2eee4" stroke="none" stroke-width="2"/>
+<text x="584" y="427" fill="#5b4d30" font-size="15" font-weight="800" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">B16</text>
+<text x="584" y="452" fill="#5b4d30" font-size="15" font-weight="650" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">B17</text>
+<rect x="560" y="801" width="49" height="65" rx="8" fill="#e6eee9" stroke="none" stroke-width="2"/>
+<text x="584" y="827" fill="#29453d" font-size="15" font-weight="800" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">A16</text>
+<text x="584" y="852" fill="#29453d" font-size="15" font-weight="650" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">A17</text>
+<rect x="616" y="401" width="49" height="65" rx="8" fill="#f2eee4" stroke="none" stroke-width="2"/>
+<text x="640" y="427" fill="#5b4d30" font-size="15" font-weight="800" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">B18</text>
+<text x="640" y="452" fill="#5b4d30" font-size="15" font-weight="650" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">B19</text>
+<rect x="616" y="801" width="49" height="65" rx="8" fill="#e6eee9" stroke="none" stroke-width="2"/>
+<text x="640" y="827" fill="#29453d" font-size="15" font-weight="800" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">A18</text>
+<text x="640" y="852" fill="#29453d" font-size="15" font-weight="650" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">A19</text>
+<rect x="672" y="401" width="49" height="65" rx="8" fill="#f2eee4" stroke="none" stroke-width="2"/>
+<text x="696" y="427" fill="#5b4d30" font-size="15" font-weight="800" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">B20</text>
+<text x="696" y="452" fill="#5b4d30" font-size="15" font-weight="650" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">B21</text>
+<rect x="672" y="801" width="49" height="65" rx="8" fill="#e6eee9" stroke="none" stroke-width="2"/>
+<text x="696" y="827" fill="#29453d" font-size="15" font-weight="800" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">A20</text>
+<text x="696" y="852" fill="#29453d" font-size="15" font-weight="650" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">A21</text>
+<rect x="728" y="401" width="49" height="65" rx="8" fill="#f2eee4" stroke="none" stroke-width="2"/>
+<text x="752" y="427" fill="#5b4d30" font-size="15" font-weight="800" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">B22</text>
+<text x="752" y="452" fill="#5b4d30" font-size="15" font-weight="650" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">B23</text>
+<rect x="728" y="801" width="49" height="65" rx="8" fill="#e6eee9" stroke="none" stroke-width="2"/>
+<text x="752" y="827" fill="#29453d" font-size="15" font-weight="800" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">A22</text>
+<text x="752" y="852" fill="#29453d" font-size="15" font-weight="650" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">A23</text>
+<rect x="784" y="401" width="49" height="65" rx="8" fill="#f2eee4" stroke="none" stroke-width="2"/>
+<text x="808" y="427" fill="#5b4d30" font-size="15" font-weight="800" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">B24</text>
+<rect x="784" y="801" width="49" height="65" rx="8" fill="#e6eee9" stroke="none" stroke-width="2"/>
+<text x="808" y="827" fill="#29453d" font-size="15" font-weight="800" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">A24</text>
+<text x="175" y="482" fill="#566358" font-size="17" font-weight="600" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">Запад B (план 2021)</text>
+<text x="822" y="482" fill="#566358" font-size="17" font-weight="600" text-anchor="end" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">Вход B · восток</text>
+<text x="175" y="780" fill="#566358" font-size="17" font-weight="600" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">Запад A (план 2021)</text>
+<text x="822" y="780" fill="#566358" font-size="17" font-weight="600" text-anchor="end" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">Вход A · восток</text>
+<rect x="277" y="495" width="224" height="66" rx="10" fill="#e9ece1" stroke="none" stroke-width="2"/>
+<text x="389" y="520" fill="#526657" font-size="16" font-weight="700" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">Бизнес-зона</text>
+<text x="389" y="543" fill="#526657" font-size="16" font-weight="550" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">и особые места</text>
+<circle cx="500" cy="635" r="23" fill="#027a69" stroke="#fff" stroke-width="4"/>
+<text x="500" y="644" fill="#fff" font-size="24" font-weight="800" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">2</text>
+<text x="500" y="697" fill="#315b4b" font-size="25" font-weight="750" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">ЗАЛ ОЖИДАНИЯ 2F · 候车大厅</text>
+<path d="M530 635 H742 V474" stroke="#027a69" fill="none" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="8 9" marker-end="url(#arr)"/>
+<path d="M470 635 H310 V726" stroke="#027a69" fill="none" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="8 9" marker-end="url(#arr)"/>
+<text x="500" y="948" fill="#52615a" font-size="19" font-weight="600" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">Назначенный выход на посадку берите с табло</text>
+<circle cx="72" cy="1065" r="23" fill="#027a69" stroke="#fff" stroke-width="4"/>
+<text x="72" y="1074" fill="#fff" font-size="24" font-weight="800" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">1</text>
+<text x="112" y="1061" fill="#173e35" font-size="25" font-weight="800" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">На платформе ищите синие указатели 换乘</text>
+<text x="112" y="1096" fill="#41584d" font-size="20" font-weight="550" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">Поднимитесь по ним в зал. Не идите через 出站口.</text>
+<circle cx="72" cy="1184" r="23" fill="#027a69" stroke="#fff" stroke-width="4"/>
+<text x="72" y="1193" fill="#fff" font-size="24" font-weight="800" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">2</text>
+<text x="112" y="1180" fill="#173e35" font-size="25" font-weight="800" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">На 2F сверьтесь с табло</text>
+<text x="112" y="1215" fill="#41584d" font-size="20" font-weight="550" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">Положение лестницы от вашей платформы не показано.</text>
+<circle cx="72" cy="1303" r="23" fill="#027a69" stroke="#fff" stroke-width="4"/>
+<text x="72" y="1312" fill="#fff" font-size="24" font-weight="800" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">3</text>
+<text x="112" y="1299" fill="#173e35" font-size="25" font-weight="800" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">К выходу второго поезда</text>
+<text x="112" y="1334" fill="#41584d" font-size="20" font-weight="550" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">По плану G306. Проверьте номер, время и билет.</text>
+<rect x="48" y="1411" width="905" height="93" rx="22" fill="#ecf0e5" stroke="none" stroke-width="2"/>
+<text x="67" y="1448" fill="#4b6656" font-size="20" font-weight="700" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">Поезда G5665 → G306, если подтверждены оба билета.</text>
+<text x="67" y="1478" fill="#52615a" font-size="18" font-weight="550" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">Западный вход изменён в 2026. На пересадке он не нужен.</text>
+<text x="52" y="1552" fill="#52615a" font-size="17" font-weight="500" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">План: China Railway Guangzhou / The Paper, 2021  ·  Вид сверху, не в масштабе.</text>
+</svg>

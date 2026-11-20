@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1580" viewBox="0 0 1000 1580"><title>Пекин-Запад: подземные уровни и выходы</title><desc>Перерисовано по официальной схеме, Геометрия уровней CN304888060S. Нумерация выходов сверена с Комитетом станции. Спуск с платформы и маршрут до конкретной точки такси определяются на месте.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" markerWidth="3" markerHeight="3" refX="9" refY="5" orient="auto"><path d="M0 0 L10 5 0 10z" fill="#027a69"/></marker></defs>
+<rect x="0" y="0" width="1000" height="1580" rx="0" fill="#f8f6ef" stroke="none" stroke-width="2"/>
+<rect x="43" y="40" width="914" height="155" rx="30" fill="#153d35" stroke="none" stroke-width="2"/>
+<text x="75" y="83" fill="#aae5d8" font-size="21" font-weight="700" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">05 ДЕК  ·  ВОКЗАЛ  ·  ПРИБЫТИЕ</text>
+<text x="75" y="130" fill="#fff" font-size="42" font-weight="800" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">Пекин-Западный</text>
+<text x="77" y="165" fill="#ddf0e5" font-size="21" font-weight="500" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">北京西站  ·  Подземные уровни, вид сверху</text>
+<text x="51" y="231" fill="#174a40" font-size="22" font-weight="800" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">СЕВЕР / 北 ↑</text>
+<text x="946" y="231" fill="#52615a" font-size="19" font-weight="500" text-anchor="end" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">Старый план · актуальные зоны</text>
+<rect x="45" y="252" width="910" height="793" rx="28" fill="#ffffff" stroke="#dfded4" stroke-width="2"/>
+<text x="76" y="292" fill="#174a40" font-size="27" font-weight="800" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">B2 · подземная галерея и метро</text>
+<path d="M83 410 H894 M83 433 H894 M355 409 A115 95 0 0 1 585 409" stroke="#b8d3d9" fill="none" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M96 490 H275 V464 H686 V490 H905 V561 H739 V760 H595 V800 H735 V885 H573 V903 Q500 932 490 980 Q480 930 396 903 V885 H268 V800 H426 V760 H269 V561 H96 Z" stroke="#7fa1a3" fill="#edf2e7" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M285 477 H678 V544 H615 V583 H529 V759 H473 V583 H391 V544 H285 Z" stroke="#93b8c0" fill="#dcebf0" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M278 801 H724 V885 H567 Q490 970 414 885 H278 Z" stroke="#93b8c0" fill="#dcebf0" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="492" cy="848" r="44" fill="#fff" stroke="#93b8c0" stroke-width="6"/>
+<path d="M315 580 h52" stroke="#c9d4c2" fill="none" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M315 599 h52" stroke="#c9d4c2" fill="none" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M315 618 h52" stroke="#c9d4c2" fill="none" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M315 637 h52" stroke="#c9d4c2" fill="none" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M315 656 h52" stroke="#c9d4c2" fill="none" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M315 675 h52" stroke="#c9d4c2" fill="none" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M315 694 h52" stroke="#c9d4c2" fill="none" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M315 713 h52" stroke="#c9d4c2" fill="none" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M315 732 h52" stroke="#c9d4c2" fill="none" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M315 751 h52" stroke="#c9d4c2" fill="none" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M650 580 h52" stroke="#c9d4c2" fill="none" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M650 599 h52" stroke="#c9d4c2" fill="none" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M650 618 h52" stroke="#c9d4c2" fill="none" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M650 637 h52" stroke="#c9d4c2" fill="none" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M650 656 h52" stroke="#c9d4c2" fill="none" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M650 675 h52" stroke="#c9d4c2" fill="none" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M650 694 h52" stroke="#c9d4c2" fill="none" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M650 713 h52" stroke="#c9d4c2" fill="none" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M650 732 h52" stroke="#c9d4c2" fill="none" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M650 751 h52" stroke="#c9d4c2" fill="none" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M369 471 v-30" stroke="#93b8c0" fill="none" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M605 471 v-30" stroke="#93b8c0" fill="none" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="195" y="488" width="148" height="54" rx="12" fill="#f3ecd9" stroke="none" stroke-width="2"/>
+<text x="269" y="522" fill="#73531c" font-size="17" font-weight="750" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">Выход 1 · 西北</text>
+<rect x="650" y="488" width="157" height="54" rx="12" fill="#f3ecd9" stroke="none" stroke-width="2"/>
+<text x="728" y="522" fill="#73531c" font-size="17" font-weight="750" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">Выход 2 · 东北</text>
+<rect x="552" y="590" width="224" height="72" rx="12" fill="#e3eff2" stroke="none" stroke-width="2"/>
+<text x="572" y="620" fill="#20505a" font-size="19" font-weight="750" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">地铁 7号线 / 9号线</text>
+<text x="572" y="645" fill="#20505a" font-size="16" font-weight="650" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">Входы в метро</text>
+<rect x="215" y="792" width="190" height="56" rx="12" fill="#f3ecd9" stroke="none" stroke-width="2"/>
+<text x="310" y="826" fill="#73531c" font-size="18" font-weight="750" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">Выход 4 · 西南</text>
+<text x="515" y="1015" fill="#174a40" font-size="22" font-weight="750" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">ЮГ / 南 ↓</text>
+<path d="M492 595 V764" stroke="#027a69" fill="none" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="11 11" marker-end="url(#arr)"/>
+<path d="M492 622 H537" stroke="#027a69" fill="none" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 9" marker-end="url(#arr)"/>
+<circle cx="492" cy="570" r="23" fill="#027a69" stroke="#fff" stroke-width="4"/>
+<text x="492" y="579" fill="#fff" font-size="24" font-weight="800" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">1</text>
+<circle cx="492" cy="790" r="23" fill="#027a69" stroke="#fff" stroke-width="4"/>
+<text x="492" y="799" fill="#fff" font-size="24" font-weight="800" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">2</text>
+<text x="93" y="675" fill="#4c6055" font-size="17" font-weight="700" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">Спуск с поезда</text>
+<text x="93" y="701" fill="#4c6055" font-size="17" font-weight="650" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">ищи по 出站口</text>
+<text x="93" y="729" fill="#4c6055" font-size="15" font-weight="500" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">точка не фиксирована</text>
+<text x="760" y="872" fill="#4c6055" font-size="20" font-weight="750" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">南广场</text>
+<text x="760" y="898" fill="#4c6055" font-size="17" font-weight="650" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">Южная сторона</text>
+<rect x="45" y="1061" width="910" height="284" rx="28" fill="#fff" stroke="#dfded4" stroke-width="2"/>
+<text x="76" y="1103" fill="#174a40" font-size="23" font-weight="800" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">B1 · отдельный выход на юго-востоке</text>
+<path d="M136 1179 H355 V1150 H645 V1179 H881 M447 1179 V1278 H553 V1236 H715" stroke="#93b8c0" fill="none" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M378 1254 H688" stroke="#b8d3d9" fill="none" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="501" cy="1265" r="35" fill="#fff" stroke="#93b8c0" stroke-width="7"/>
+<rect x="647" y="1207" width="190" height="55" rx="12" fill="#f3ecd9" stroke="none" stroke-width="2"/>
+<text x="742" y="1242" fill="#73531c" font-size="18" font-weight="750" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">Выход 3 · 东南</text>
+<text x="519" y="1322" fill="#6a5530" font-size="16" font-weight="650" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">Выход 5 · восток Южной площади / 南广场东 (снаружи)</text>
+<circle cx="71" cy="1388" r="23" fill="#027a69" stroke="#fff" stroke-width="4"/>
+<text x="71" y="1397" fill="#fff" font-size="24" font-weight="800" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">1</text>
+<text x="115" y="1385" fill="#173e35" font-size="23" font-weight="800" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">Выйди по указателю своего поезда</text>
+<text x="115" y="1416" fill="#41584d" font-size="17" font-weight="550" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">У скоростных часто 3 / 4 / 5; номер сверить по указателям.</text>
+<circle cx="71" cy="1465" r="23" fill="#027a69" stroke="#fff" stroke-width="4"/>
+<text x="71" y="1474" fill="#fff" font-size="24" font-weight="800" text-anchor="middle" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">2</text>
+<text x="115" y="1461" fill="#173e35" font-size="23" font-weight="800" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">Такси / DiDi: сверяй назначенную точку</text>
+<text x="115" y="1492" fill="#41584d" font-size="17" font-weight="550" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">Юг: 广莲路网约车. В WeChat: 到站北京 → план и навигация.</text>
+<text x="52" y="1550" fill="#52615a" font-size="15" font-weight="500" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">Основа CN304888060S; номера выходов — Комитет станции, 2025; транспорт — 2026.</text>
+<text x="52" y="1573" fill="#52615a" font-size="15" font-weight="500" text-anchor="start" font-family="Noto Sans CJK SC, DejaVu Sans, sans-serif">Пунктир: возможное направление по галерее; не маршрут от конкретной платформы.</text>
+</svg>
