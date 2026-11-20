@@ -1,0 +1,20 @@
+/* Airport and railway action cards, added without changing the itinerary. */
+.trip-transport,.trip-offline{box-sizing:border-box;max-width:100%;min-width:0;scroll-margin-top:24px}
+.trip-transport{margin:20px 0;padding:0;border:1px solid #bacabb;border-radius:8px;background:#fff;color:#23372e}
+.trip-transport>summary{padding:15px 18px;font:600 1rem/1.5 system-ui,sans-serif;cursor:pointer;min-height:48px;overflow-wrap:anywhere}
+.trip-transport[open]>summary{border-bottom:1px solid #dce3df}
+.trip-transport-body{padding:16px;min-width:0}
+.trip-transport p,.trip-offline p{font-size:1rem;line-height:1.6}
+.trip-transport .trip-note,.trip-offline .trip-note{font-size:.9rem;line-height:1.55;color:#526359}
+.trip-transport .trip-map{margin:18px 0;min-width:0;max-width:100%}
+.trip-transport .trip-image{display:block;width:100%;max-width:460px;margin:auto;border:1px solid #dce3df}
+.trip-transport .trip-image img{display:block;width:100%;max-width:100%;height:auto;max-height:none;object-fit:contain;aspect-ratio:1170/2070;margin:0}
+.trip-transport .trip-map figcaption{padding:10px 0;font:.9rem/1.5 system-ui,sans-serif;color:#526359}
+.trip-actions{display:flex;flex-wrap:wrap;gap:10px;margin:16px 0}
+.trip-actions a{display:inline-flex;align-items:center;justify-content:center;min-height:46px;padding:10px 14px;border:1px solid #567461;border-radius:5px;color:#244c3b;background:#fff;text-decoration:none;font:600 1rem/1.4 system-ui,sans-serif;white-space:normal;overflow-wrap:anywhere;max-width:100%}
+.trip-actions a:hover,.trip-actions a:focus-visible{background:#eef4ef;outline-offset:3px}
+.trip-offline{margin:38px 0;padding:24px;background:#fff;border:1px solid #bacabb;border-radius:8px}
+.trip-offline h2{font-size:1.75rem;line-height:1.25;margin:0 0 16px}
+.trip-map-days{padding-left:22px}.trip-map-days li{margin:10px 0;overflow-wrap:anywhere}
+.trip-backup{border-color:#b6812a}.trip-backup>summary{background:#fff3dc}
+@media(max-width:480px){.trip-offline{padding:18px 14px}.trip-transport-body{padding:12px}.trip-actions a{flex:1 1 160px}.trip-transport>summary{padding:14px 12px}}
